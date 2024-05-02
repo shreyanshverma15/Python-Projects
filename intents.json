@@ -1,0 +1,25 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["My pleasure", "You're Welcome"],
+         "context": [""]
+        },
+        {"tag": "query",
+         "patterns": ["What is MNNIT?"],
+         "responses": ["It is the best NIT"],
+         "context": [""]
+        }
+    ]}
+
+
+    //This is the json file, where all questions and answers for the chatbot are there. Everyone keep on adding new questions everyday regarding anything, like about to college, about AI and anything else. We just need to keep increasing our dataset until the last moment. So just keep on adding anything relevant which comes to your mind.
