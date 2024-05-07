@@ -66,7 +66,7 @@
                "who designed you"
             ],
             "responses": [
-               "College students"
+               "I was designed by Nitish, Veera Pratap, Tavis and Shreyansh."
             ],
             "context_set": [""]
          },
@@ -88,10 +88,9 @@
                "what are you"
             ],
             "responses": [
-               "You can call me Mind Reader.",
-               "I'm Mind Reader",
-               "I am a Chatbot.",
-               "I am your helper"
+               "You can call me MNNIT College Query Bot.",
+               "I'm MNNIT College Query Bot",
+               "I am MNNIT's Chatbot."
             ],
             "context_set": [""]
          },
@@ -141,7 +140,7 @@
                "call"
             ],
             "responses": [
-               "You can contact at: NUMBER"
+               "You can contact at: 1234567890"
             ],
             "context_set": [""]
          },
@@ -177,7 +176,7 @@
                "Civil engineering"
             ],
             "responses": [
-               "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+               "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and etc."
             ],
             "context_set": [""]
          },
@@ -209,7 +208,7 @@
                "fees for non-Ac room for boys"
             ],
             "responses": [
-               "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+               "For Fees detail visit the college portal"
             ],
             "context_set": [""]
          },
@@ -232,7 +231,7 @@
                "location"
             ],
             "responses": [
-               "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+               "It is located in the heart of Prayagraj, U.P."
             ],
             "context_set": [""]
          },
@@ -263,7 +262,7 @@
                "distance between hostel and college"
             ],
             "responses": [
-               "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+               "We have more then 6 hostels."
             ],
             "context_set": [""]
          },
@@ -283,7 +282,7 @@
                "what about events"
             ],
             "responses": [
-               "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+               "For event detail visit the culture committee website, Culrav."
             ],
             "context_set": [""]
          },
@@ -305,7 +304,7 @@
                "documents needed"
             ],
             "responses": [
-               "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+               "To know more about documents required visit the JOSAA website after clearing JEE"
             ],
             "context_set": [""]
          },
@@ -321,7 +320,7 @@
                "floors"
             ],
             "responses": [
-               "My College has total 2 floors "
+               "My College has total area of 300+ acres."
             ],
             "context_set": [""]
          },
@@ -337,7 +336,7 @@
                "What is next lecture"
             ],
             "responses": [
-               "Timetable provide direct to the students OR To know about syllabus visit <a target=\"_blank\" href=\"TIMETABLE LINK\"> here</a>"
+               "Timetable is provided directly to the students"
             ],
             "context_set": [""]
          },
@@ -360,7 +359,7 @@
                "how many libraries"
             ],
             "responses": [
-               "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+               "There is one huge and spacious library.timings are 9am to 12am"
             ],
             "context_set": [""]
          },
@@ -426,7 +425,7 @@
                "companies"
             ],
             "responses": [
-               "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+               "To know about placement visit <a target=\"_blank\" href=\"https://tpo.mnnit.ac.in/tnp/placement/placementarchive.php\">here</a>"
             ],
             "context_set": [""]
          },
@@ -439,7 +438,7 @@
                "name of it hod"
             ],
             "responses": [
-               "All engineering departments have only one hod XYZ who available on (Place name)"
+               "All engineering departments have their own HOD, please be more specific"
             ],
             "context_set": [""]
          },
@@ -452,7 +451,7 @@
                "name of computer hod"
             ],
             "responses": [
-               "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+               "CSE hod is Prof. DK Yadav"
             ],
             "context_set": [""]
          },
@@ -470,18 +469,18 @@
             "context_set": [""]
          },
           {
-            "tag": "principal",
+            "tag": "director",
             "patterns": [
-               "what is the name of principal",
-               "whatv is the principal name",
-               "principal name",
-               "Who is college principal",
-               "Where is principal's office",
-               "principal",
-               "name of principal"
+               "what is the name of director",
+               "whatv is the director name",
+               "director name",
+               "Who is college director",
+               "Where is director's office",
+               "director",
+               "name of director"
             ],
             "responses": [
-               "XYZ is college principal and if you need any help then call your branch hod first.That is more appropriate"
+               "RS Verma is college director and if you need any help then call your branch hod first.That is more appropriate"
             ],
             "context_set": [""]
          },
@@ -501,7 +500,7 @@
                "when is semester"
             ],
             "responses": [
-               "Here is the Academic Calendar  <a target=\"_blank\" href=\"YOUR ACADEMIC CALENDER\">website</a>"
+               "Academic calendar can be found on college's online portal"
             ],
             "context_set": [""]
          },
@@ -516,7 +515,7 @@
                "admission process"
             ],
             "responses": [
-               "Application can also be submitted online through the Unversity's  <a target=\"_blank\" href=\"LINK OF ADMISSION DOCUMENT\">website</a>"
+               "Application can also be submitted online through the JOSAA portal after clearing JEE exam"
             ],
             "context_set": [""]
          },
@@ -551,7 +550,7 @@
                "fourth year scholarship"
             ],
             "responses": [
-               "Many government scholarships are supported by our university. For details and updates visit <a target=\"_blank\" href=\"(SCHOLARSHIP DETAILS LINK)\">here</a>"
+               "Many government scholarships are supported by our university."
             ],
             "context_set": [""]
          },
@@ -583,7 +582,7 @@
                "seats"
             ],
             "responses": [
-               "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+               "For IT, Computer and extc 300 per branch and seat may be differ for different department."
             ],
             "context_set": [""]
          },
@@ -601,7 +600,7 @@
                "do we have to wear uniform"
             ],
             "responses": [
-               "ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER"
+               "Our college allows us to wear decent/informal attire to the classes."
             ],
             "context_set": [""]
          },
@@ -616,7 +615,7 @@
                "how many committee are there in college"
             ],
             "responses": [
-               "For the various committe in college contact this number: ADD NUMBER"
+               "For the various committe in college contact this number: 1234"
             ],
             "context_set": [""]
          },
@@ -628,26 +627,7 @@
                "Do you love me"
             ],
             "responses": [
-               "I am not program for this, please ask appropriate query"
-            ],
-            "context_set": [""]
-         },
-          {
-            "tag": "swear",
-            "patterns": [
-               "fuck",
-               "bitch",
-               "shut up",
-               "hell",
-               "stupid",
-               "idiot",
-               "dumb ass",
-               "asshole",
-               "fucker"
-            ],
-            "responses": [
-               "please use appropriate language",
-               "Maintaining decency would be appreciated"
+               "I am not programmed for this, please ask appropriate query"
             ],
             "context_set": [""]
          },
@@ -668,7 +648,7 @@
                "how long will be the vacation"
             ],
             "responses": [
-               "Academic calender is given to you by your class-soordinators after you join your respective classes"
+               "Academic calender is given to you by your class-coordinators after you join your respective classes"
             ],
             "context_set": [""]
          },
@@ -684,7 +664,7 @@
                "please provide sports and games information"
             ],
             "responses": [
-               "Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"(LINK IF HAVE)\">here</a>"
+               "Our college encourages all-round development of students and hence provides sports facilities in the campus. "
             ],
             "context_set": [""]
          },
